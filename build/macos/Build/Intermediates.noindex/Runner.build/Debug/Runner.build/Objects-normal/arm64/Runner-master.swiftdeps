@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "fc5928bb6e71579b387e526f8d24473b9132585f42d0144ba3e4d9207f99d068"
+build_start_time: [1699607695, 593377000]
+build_end_time: [1699607696, 827358000]
+inputs:
+  "/Users/pongpipattawatchaldumrong/Desktop/my-project/learn/simple_quiz_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1699607691, 806590790]
+  "/Users/pongpipattawatchaldumrong/Desktop/my-project/learn/simple_quiz_app/macos/Runner/AppDelegate.swift": [1690741766, 676214617]
+  "/Users/pongpipattawatchaldumrong/Desktop/my-project/learn/simple_quiz_app/macos/Runner/MainFlutterWindow.swift": [1690741766, 677050266]
